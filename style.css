@@ -61,3 +61,8 @@ aside img {
   border: 2pt solid red;
   cursor: grab;
 }
+
+.meret {
+  width: 150px;
+  height: auto;
+}
